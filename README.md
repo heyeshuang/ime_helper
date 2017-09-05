@@ -28,7 +28,7 @@ https://msdn.microsoft.com/en-us/library/ms912047(WinEmbedded.10).aspx
 ## Known issue
 
 Doesn't work on CMD or powershell, however, if you set a delay time you will see it works on other softwares:
-```
+```powershell
 # powershell
 sleep 5|python ime_helper.py --locale zh_CN
 # then switch to another window
