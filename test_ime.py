@@ -1,4 +1,4 @@
-import sys
+import sys,locale
 
 def find_LCID(lcName):
     return next((k for k, v in locale.windows_locale.items() if v == lcName), None)
