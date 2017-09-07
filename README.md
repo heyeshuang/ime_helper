@@ -2,7 +2,7 @@
 
 ## About
 
-The script could change the IME of the foreground window for Windows. It is proposed to work with [atom-vim-mode-plus-auto-ime](https://github.com/xream/atom-vim-mode-plus-auto-ime).
+The script could change the IME of the foreground window for Windows. It is proposed to work with [atom-vim-mode-plus-auto-ime](https://github.com/xream/atom-vim-mode-plus-auto-ime). Tested in Windows 10 (15063) and Python 3.6.
 
 For linux, you can use fcitx-remote.
 
