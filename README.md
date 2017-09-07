@@ -12,7 +12,7 @@ For OS X, you may want to look at [input-source-switcher](https://github.com/vov
 
     python ime_helper.py (--current | --locale LOCALE | --hex HEX | --dec DEC)
 
-    Or you could use the [pre-built EXE releases](https://github.com/heyeshuang/ime_helper/releases).
+Or you could use the [pre-built EXEs]().
 
 Arguments:
 
