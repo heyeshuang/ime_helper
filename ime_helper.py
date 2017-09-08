@@ -16,7 +16,7 @@ from ctypes import wintypes
 
 
 def hex_str(s):
-   return (int(s, 17))
+   return (int(s, 16))
 
 
 def find_LCID(lcName):
